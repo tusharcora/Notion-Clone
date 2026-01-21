@@ -28,6 +28,7 @@ Collaborative workspace that feels like a light Notion clone: create workspaces,
 ### Documents
 - **Hierarchy (tree)**: documents can have an optional `parentId` to support nested pages.
 <img width="227" height="136" alt="Screenshot 2026-01-21 at 11 19 45 AM" src="https://github.com/user-attachments/assets/e8369683-6808-44c1-a798-41bd4f81ec4a" />
+
 - **Metadata**:
   - **Favorites**: quick access to important pages.
   - **Archive + Trash flow**: hide pages without losing them permanently.
@@ -45,6 +46,8 @@ Collaborative workspace that feels like a light Notion clone: create workspaces,
 - **Document integration**:
   - Document due dates can be surfaced alongside events.
   - Events can optionally link to a specific document (`documentId`).
+<img width="1800" height="1002" alt="Screenshot 2026-01-21 at 11 25 47 AM" src="https://github.com/user-attachments/assets/7c4bed76-23ce-498e-a4ae-6622c68148b2" />
+<img width="625" height="734" alt="Screenshot 2026-01-21 at 11 26 32 AM" src="https://github.com/user-attachments/assets/ffddf002-f00b-4626-8473-a6b99739b1b1" />
 
 ### UI/UX
 - **Responsive layout**: sidebar + content area patterns for workspace/document pages.
