@@ -21,9 +21,13 @@ Collaborative workspace that feels like a light Notion clone: create workspaces,
 ### Workspaces
 - **Workspace picker / landing page**: create a workspace and jump straight in.
 - **Workspace-scoped data**: documents + calendar events are filtered by `workspaceId`.
+<img width="1798" height="1002" alt="Screenshot 2026-01-21 at 11 07 51 AM" src="https://github.com/user-attachments/assets/e3c9950f-e52b-4524-bba9-283e410b0741" />
+<img width="474" height="617" alt="Screenshot 2026-01-21 at 11 08 20 AM" src="https://github.com/user-attachments/assets/3923e652-ca26-47a8-b487-666f35c64fb8" />
+<img width="1800" height="1002" alt="Screenshot 2026-01-21 at 11 08 45 AM" src="https://github.com/user-attachments/assets/12623868-dd5c-402d-8045-7addaf7b7adb" />
 
 ### Documents
 - **Hierarchy (tree)**: documents can have an optional `parentId` to support nested pages.
+<img width="227" height="136" alt="Screenshot 2026-01-21 at 11 19 45 AM" src="https://github.com/user-attachments/assets/e8369683-6808-44c1-a798-41bd4f81ec4a" />
 - **Metadata**:
   - **Favorites**: quick access to important pages.
   - **Archive + Trash flow**: hide pages without losing them permanently.
@@ -32,6 +36,7 @@ Collaborative workspace that feels like a light Notion clone: create workspaces,
 - **Editing experience**:
   - **Autosave-style UX**: the UI tracks save state as edits happen.
   - **Slash commands + toolbar**: insert common blocks/formatting quickly.
+<img width="1799" height="1001" alt="Screenshot 2026-01-21 at 11 19 34 AM" src="https://github.com/user-attachments/assets/94726890-6122-4c81-becd-afd335c1a9cf" />
 
 ### Calendar
 - **Multiple views**: day/week/month/agenda.
